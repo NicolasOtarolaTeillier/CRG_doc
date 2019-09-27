@@ -3,11 +3,11 @@
 instalaciones:
 
   - node js desde la pagina descargar instalador: https://nodejs.org/es/
-    comandos:
+    -comandos:
       -node --version
       
   - typescript instalacion desde comando
-    comandos:
+    -comandos:
      -sudo npm install -g typescript
   
 
