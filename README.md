@@ -8,7 +8,7 @@
       
   - typescript instalacion desde comando
     - comandos:
-     - sudo npm install -g typescript
-     - npm typescript --v
+     - sudo npm install -g typescript //instalamos ts
+     - npm typescript --v //verificamos la version
   
 - https://cli.angular.io/
