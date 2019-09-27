@@ -1,6 +1,6 @@
 # CRG_doc
 
-instalaciones:
+- instalaciones:
 
   - node js desde la pagina descargar instalador: https://nodejs.org/es/
     - comandos:
@@ -10,5 +10,4 @@ instalaciones:
     - comandos:
      - sudo npm install -g typescript
   
-
-  -https://cli.angular.io/
+- https://cli.angular.io/
